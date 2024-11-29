@@ -12,7 +12,11 @@ IA Generativa ElevenLabs para e sintetização de voz;
 ChatGPT" foi utilizado para desenvolver o roteiro. "ElevenLabs" ajudou a criar uma voz sintética para o audio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui estão os links para os arquivos de aúdio e texto.
+
+[AUDIO](https://github.com/mmpassalini/lab-natty-or-not/blob/main/ElevenLabs_2024-11-29T13_07_34_Rachel_pre_s50_sb75_se0_b_m2.mp3)
+
+[TEXTO](https://github.com/mmpassalini/lab-natty-or-not/blob/main/IA%20Generativa.pdf)
 
 ## 💭 Reflexão.
 
